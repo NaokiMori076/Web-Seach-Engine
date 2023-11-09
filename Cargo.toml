@@ -46,7 +46,7 @@ criterion = "0.5.1"
 tempfile = "3.8.0"
 
 [build-dependencies]
-lightningcss = "1.0.0-alpha.50"
+lightningcss = "1.0.0-alpha.51"
 minify-js = "0.5.6"
 
 [profile.dev]
