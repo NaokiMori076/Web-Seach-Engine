@@ -35,7 +35,7 @@ regex = {version="1.9.4", features=["perf"]}
 smallvec = {version="1.11.0", features=["union", "serde"]}
 futures = {version="0.3.28"}
 dhat = {version="0.3.2", optional = true}
-mimalloc = { version = "0.1.38", default-features = false }
+mimalloc = { version = "0.1.43", default-features = false }
 async-once-cell = {version="0.5.3"}
 actix-governor = {version="0.5.0"}
 mini-moka = { version="0.10", optional = true}
