@@ -27,7 +27,7 @@ env_logger = {version="0.10.0"}
 log = {version="0.4.20"}
 mlua = {version="0.9.1", features=["luajit", "vendored"]}
 redis = {version="0.23.3", features=["tokio-comp","connection-manager"], optional = true}
-md5 = {version="0.7.0"}
+md5 = {version="0.8.0"}
 rand={version="0.8.5"}
 error-stack = {version="0.4.0"}
 async-trait = {version="0.1.73"}
